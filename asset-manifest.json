@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fake-utube/static/css/main.0ce4bb22.css",
+    "main.js": "/fake-utube/static/js/main.59811218.js",
+    "index.html": "/fake-utube/index.html",
+    "main.0ce4bb22.css.map": "/fake-utube/static/css/main.0ce4bb22.css.map",
+    "main.59811218.js.map": "/fake-utube/static/js/main.59811218.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ce4bb22.css",
+    "static/js/main.59811218.js"
+  ]
+}
