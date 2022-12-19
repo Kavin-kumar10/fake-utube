@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fake-utube/static/css/main.77e4a485.css",
-    "main.js": "/fake-utube/static/js/main.8bac9bf5.js",
+    "main.css": "/fake-utube/static/css/main.6d29ffbc.css",
+    "main.js": "/fake-utube/static/js/main.444e2392.js",
     "index.html": "/fake-utube/index.html",
-    "main.77e4a485.css.map": "/fake-utube/static/css/main.77e4a485.css.map",
-    "main.8bac9bf5.js.map": "/fake-utube/static/js/main.8bac9bf5.js.map"
+    "main.6d29ffbc.css.map": "/fake-utube/static/css/main.6d29ffbc.css.map",
+    "main.444e2392.js.map": "/fake-utube/static/js/main.444e2392.js.map"
   },
   "entrypoints": [
-    "static/css/main.77e4a485.css",
-    "static/js/main.8bac9bf5.js"
+    "static/css/main.6d29ffbc.css",
+    "static/js/main.444e2392.js"
   ]
 }
